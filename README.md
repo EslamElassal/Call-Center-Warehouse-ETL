@@ -7,7 +7,7 @@
 
 ## Database Schema
 
-![Star Schema](https://raw.githubusercontent.com/Abdelrhman-Yassein/Health-Center-Data-Model-Project-with-cassandra/main/health_centres_data_mart_model.png) 
+![Star Schema](https://github.com/EslamElassal/Call-Center-Warehouse-ETL/blob/main/health_centres_data_mart_model.png) 
 
  
 
